@@ -40,8 +40,7 @@ How to Use
 You can clone this repository to your local machine to explore the projects and assignments:
 
 
-git clone https://github.com/yourusername/summer-internship-2024-webdev.git
-cd summer-internship-2024-webdev
+git clone https://github.com/Shubh-SSB/OCTANET_AUGUST
 Navigate to any project or assignment folder and follow the instructions in the respective README.md files to run or understand the code.
 
 Acknowledgements
